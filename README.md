@@ -46,38 +46,9 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 
 ---
 
-## 🏆 Contribuições e Engajamento
-
-- Commits em 2025: **+47**
-- Pull Requests: **em andamento**
-- Issues abertas: **em breve**
-- Repositórios públicos: **em crescimento**
-- Estrelas recebidas: **vamos aumentar!**
-
----
-
-## 📈 Como subir de C para B (ou A)
-
-- Fazer mais **commits públicos**
-- Criar e contribuir com **Pull Requests**
-- Abrir e responder **Issues**
-- Criar projetos com **README completo e documentação Swagger**
-- Compartilhar seus repositórios em redes sociais e fóruns
-- Contribuir com **projetos open source**
-
----
-
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/lucaslouzano](https://linkedin.com/in/lucaslouzano)
-- E-mail: lucas.louzano@email.com
+- LinkedIn: [https://www.linkedin.com/in/lucas-louzano24/](https://www.linkedin.com/in/lucas-louzano24/)
+- E-mail: lucaslouzano55@gmail.com
 - Portfólio: *em construção*
-
----
-
-## 💡 Próximos passos
-
-- [ ] Criar mais projetos com Docker e Java
-- [ ] Contribuir com repositórios open source
-- [ ] Compartilhar conhecimento com a comunidade
 
