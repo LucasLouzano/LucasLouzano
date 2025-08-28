@@ -12,14 +12,18 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 
 ## 🛠️ Tecnologias que domino
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-- Spring Boot (Microserviços)
-- Maven
-- MySQL Workbench
-- Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
+- **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>
+- **Spring Boot** (com foco em microsserviços e arquitetura limpa)
+- **Maven** (gerenciamento de dependências e build)
+- **MySQL Workbench** (modelagem e administração de banco de dados)
+- **Docker** (containerização e deploy de aplicações)
+- **Git & GitHub** (versionamento e colaboração)
+- **Postman** (testes de APIs RESTful)
+- **IntelliJ IDEA** (IDE principal para desenvolvimento Java)
+- **Arquitetura Hexagonal** (separação de camadas e independência de frameworks)
+- **Swagger** (documentação interativa de APIs)
+- **APIs RESTful** (criação de endpoints escaláveis e seguros)
+- **MapStruct / ModelMapper** (conversão eficiente entre DTOs e entidades)
 
 ---
 
@@ -27,9 +31,9 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| `api-socialmedia` | API RESTful para rede social com autenticação JWT | Java, Spring Boot, Docker |
+| `api-socialmedia` | API RESTful para rede social com autenticação JWT | Java, Spring Boot, Docker, Swagger |
 | `java-docker-demo` | Exemplo de containerização de app Java | Java, Dockerfile |
-| `crud-mysql` | CRUD completo com MySQL e Spring Data JPA | Java, Spring Boot, MySQL |
+| `crud-mysql` | CRUD completo com MySQL e Spring Data JPA | Java, Spring Boot, MySQL, MapStruct |
 
 ---
 
@@ -57,6 +61,15 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 - LinkedIn: [linkedin.com/in/lucaslouzano](https://linkedin.com/in/lucaslouzano)
 - E-mail: lucas.louzano@email.com
 - Portfólio: *em construção*
+
+---
+
+## 💡 Próximos passos
+
+- [ ] Criar mais projetos com Docker e Java
+- [ ] Contribuir com repositórios open source
+- [ ] Compartilhar conhecimento com a comunidade
+
 
 ---
 
