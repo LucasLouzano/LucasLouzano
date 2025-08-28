@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Louzano
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Louzano;Tenho+33+anos,+de+Ribeirão+Preto,+SP;Formado+em+Análise+e+Desenvolvimento+de+Sistemas+pela+Universidade+Anhembi+Morumbi;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Louzano;Formado+em+Análise+e+Desenvolvimento+de+Sistemas+pela+Universidade+Anhembi+Morumbi;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
@@ -68,16 +68,5 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 
 - [ ] Criar mais projetos com Docker e Java
 - [ ] Contribuir com repositórios open source
-- [ ] Compartilhar conhecimento com a comunidade
-
-
----
-
-## 💡 Próximos passos
-
-- [ ] Criar mais projetos com Docker e Java
-- [ ] Contribuir com repositórios open source
-- [ ] Compartilhar conhecimento com a comunidade
-
-
+- [ ] Compartilhar conhecimento com a 
 
