@@ -13,7 +13,7 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 ## 🛠️ Tecnologias que domino
 
 - **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>
-- **Spring Boot** (com foco em microsserviços e arquitetura limpa)
+- **Spring Boot** (microsserviços e arquitetura limpa)
 - **Maven** (gerenciamento de dependências e build)
 - **MySQL Workbench** (modelagem e administração de banco de dados)
 - **Docker** (containerização e deploy de aplicações)
@@ -53,6 +53,17 @@ Sou desenvolvedor backend com foco em soluções escaláveis e APIs RESTful. For
 - Issues abertas: **em breve**
 - Repositórios públicos: **em crescimento**
 - Estrelas recebidas: **vamos aumentar!**
+
+---
+
+## 📈 Como subir de C para B (ou A)
+
+- Fazer mais **commits públicos**
+- Criar e contribuir com **Pull Requests**
+- Abrir e responder **Issues**
+- Criar projetos com **README completo e documentação Swagger**
+- Compartilhar seus repositórios em redes sociais e fóruns
+- Contribuir com **projetos open source**
 
 ---
 
